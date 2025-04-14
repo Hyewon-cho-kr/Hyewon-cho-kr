@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Hyewon-cho-kr
 - 👀 I’m interested in AI application on heathcare data, especially on pre-clinical image data
-- 🌱 I’m currently learning Cancel changes
-    -    Image Preprocessing, Object detection/segmentation, Quantification
+- 🌱 I’m currently learning ,,,
+    -    Medical imaging anomaly detection, Label-free imaging technique
+    -    Image Preprocessing, Biomarker Quantification
     -    Multimodal learning, Real-time application, Challenge with 'small-label' dataset
 -  I’m looking to collaborate on Healthcare pre-clinical / clinical image based classification / quantification projects
 -  How to reach me ...
