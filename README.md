@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ,,,
     -    Medical imaging anomaly detection, Label-free imaging technique
     -    Image Preprocessing, Biomarker Quantification
-    -    Multimodal learning, Real-time application, Challenge with 'small-label' dataset
--  I’m looking to collaborate on Healthcare pre-clinical / clinical image based classification / quantification projects
+   
+-  I’m looking to collaborate on Healthcare disease screening based on anomaly detection project.
 -  How to reach me ...
 -     ## hyewon@unist.ac.kr
 
